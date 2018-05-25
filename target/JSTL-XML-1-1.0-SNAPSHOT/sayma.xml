@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<uyeler>
+    <uye>
+        <adi>Sercan Developers</adi>
+        <yasi>25</yasi>
+    </uye>
+    <uye>
+        <adi>Tınaztepe</adi>
+        <yasi>26</yasi>
+    </uye>
+    <uye>
+        <adi>Duygu</adi>
+        <yasi>24</yasi>
+    </uye>
+    <uye>
+        <adi>Soner</adi>
+        <yasi>24</yasi>
+    </uye>
+</uyeler>
